@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @serabutantekno
+- 👀 I’m interested in building tools to simplify the work
+- 🌱 I’m currently learning something related to my interest
+- 💞️ I’m looking to collaborate on some projects
