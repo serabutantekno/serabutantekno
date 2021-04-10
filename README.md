@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @serabutantekno
+- 👷 My real name is Madyan
+- 🇮🇩 I live in Indonesia
 - 👀 I’m interested in building tools to simplify the work
 - 🌱 I’m currently learning something related to my interest
 - 💞️ I’m looking to collaborate on some projects
